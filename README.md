@@ -3,7 +3,7 @@
 
 ## About Me
 - 👀 I'm interested in Machine Learning and Data Science.
-- 🌱 I'm currently pursuing a B.Tech in Computer Science and Business Systems.
+- 🌱 I'm currently pursuing B.Tech in Computer Science and Business Systems.
 
 ## Contact Me
 - 📫 Reach me via email at:
