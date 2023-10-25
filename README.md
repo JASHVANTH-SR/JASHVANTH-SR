@@ -18,6 +18,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="R" width="50" height="50" style="background-color: #276DC3; padding: 10px; border-radius: 10px;">
 </div>
 
+## Currently Learning 
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1200px-Julia_Programming_Language_Logo.svg.png" alt="Julia" width="50" height="50" style="margin-right: 20px; background-color: #9558B2; padding: 10px; border-radius: 10px;">
+  <img src="https://i.pinimg.com/736x/91/17/48/91174838481320be811fa7da10a51fea.jpg" alt="HTML" width="50" height="50" style="background-color: #E34F26; padding: 10px; border-radius: 10px;">
+</div>
+
 <!-- Areas of Interest -->
 ## Areas of Interest
 <div align="left">
