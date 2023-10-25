@@ -1,62 +1,33 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .badge {
-    padding: 8px 12px;
-    margin: 4px;
-    border-radius: 4px;
-    background-color: #0077B5; /* Blue background for LinkedIn */
-    color: white;
-    display: inline-flex;
-    align-items: center;
-  }
-  .logo {
-    width: 24px;
-    height: 24px;
-    margin-right: 8px;
-  }
-</style>
-</head>
-<body>
+<div align="center">
   <h1>👋 Hi, I'm Jashvanth S R</h1>
+  <p style="font-size: 18px;">Welcome to my GitHub profile!</p>
+</div>
 
-  <h2>About Me</h2>
-  <ul>
-    <li>
-      <div class="badge">
-        <img class="logo" src="python_logo.png" alt="Python Logo"> Python
-      </div>
-    </li>
-    <li>
-      <div class="badge">
-        <img class="logo" src="c_logo.png" alt="C Logo"> C
-      </div>
-    </li>
-    <li>
-      <div class="badge">
-        <img class="logo" src="data_science_logo.png" alt="Data Science Logo"> Data Science
-      </div>
-    </li>
-    <li>
-      <div class="badge">
-        <img class="logo" src="machine_learning_logo.png" alt="Machine Learning Logo"> Machine Learning
-      </div>
-    </li>
-    <li>
-      <div class="badge">
-        <img class="logo" src="data_visualization_logo.png" alt="Data Visualization Logo"> Data Visualizations
-      </div>
-    </li>
-  </ul>
+## About Me
+- 👀 I'm interested in Machine Learning and Data Science.
+- 🌱 I'm currently pursuing a B.Tech in Computer Science and Business Systems.
 
+<div align="center">
   <h2>Contact Me</h2>
-  <ul>
-    <li>
-      📫 Reach me via email at:
-      - [ucb20118@rmd.ac.in](mailto:ucb20118@rmd.ac.in)
-      - [jashvanthofficial@gmail.com](mailto:jashvanthofficial@gmail.com)
-    </li>
-  </ul>
-</body>
-</html>
+  <p>Feel free to reach out to me:</p>
+  <p>
+    <a href="mailto:ucb20118@rmd.ac.in">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="40" height="40" alt="Python">
+    </a>
+    <a href="mailto:jashvanthofficial@gmail.com">
+      <img src="https://contentstatic.techgig.com/photo/90325682.cms" width="40" height="40" alt="C">
+    </a>
+    <a href="mailto:ucb20118@rmd.ac.in">
+      <img src="https://previews.123rf.com/images/essaphear/essaphear1709/essaphear170900001/86808937-data-science-logo-icon-design-vector.jpg" width="40" height="40" alt="Data Science">
+    </a>
+    <a href="mailto:jashvanthofficial@gmail.com">
+      <img src="https://www.wi6labs.com/wp-content/uploads/2019/12/Machine-learning-logo-1.png" width="40" height="40" alt="Machine Learning">
+    </a>
+    <a href="mailto:ucb20118@rmd.ac.in">
+      <img src="https://cdn3.vectorstock.com/i/1000x1000/31/82/business-analytics-line-icon-concept-vector-22863182.jpg" width="40" height="40" alt="Business Analytics">
+    </a>
+    <a href="mailto:jashvanthofficial@gmail.com">
+      <img src="https://cdn5.vectorstock.com/i/1000x1000/40/64/business-statistics-logo-design-template-isolated-vector-26544064.jpg" width="40" height="40" alt="Statistics">
+    </a>
+  </p>
+</div>
