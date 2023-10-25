@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @JASHVANTH-SR
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning B.Tech Computer Science and Business Systems
-- 📫 How to reach me mail id : ucb20118@rmd.ac.in // jashvanthofficial@gmail.com
+# 👋 Hi, I'm Jashvanth S R
 
-<!---
-JASHVANTH-SR/JASHVANTH-SR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 👀 I'm interested in Machine Learning and Data Science.
+- 🌱 I'm currently pursuing a B.Tech in Computer Science and Business Systems.
+
+## Contact Me
+- 📫 Reach me via email at:
+  - [ucb20118@rmd.ac.in](mailto:ucb20118@rmd.ac.in)
+  - [jashvanthofficial@gmail.com](mailto:jashvanthofficial@gmail.com)
