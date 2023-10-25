@@ -20,7 +20,7 @@
 
 ## Currently Learning 
 <div>
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1200px-Julia_Programming_Language_Logo.svg.png](https://ih1.redbubble.net/image.1457351022.7537/st,small,507x507-pad,600x600,f8f8f8.jpg)" alt="Julia" width="50" height="50" style="margin-right: 20px; background-color: #9558B2; padding: 10px; border-radius: 10px;">
+  <img src="https://ih1.redbubble.net/image.1457351022.7537/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="Julia" width="50" height="50" style="margin-right: 20px; background-color: #9558B2; padding: 10px; border-radius: 10px;">
   <img src="https://i.pinimg.com/736x/91/17/48/91174838481320be811fa7da10a51fea.jpg" alt="HTML" width="50" height="50" style="background-color: #E34F26; padding: 10px; border-radius: 10px;">
 </div>
 
